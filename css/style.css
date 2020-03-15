@@ -1,0 +1,117 @@
+/*
+
+.row {
+    background-image: url(../img/b3.jpg);
+    background-repeat: no-repeat ;
+    background-size: cover;
+}
+*/
+.row{
+    width:100%;
+    margin-bottom: 5%;
+}
+
+.bgim {
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.bgim h2{
+    color: #fff;
+}
+.bgim h5{
+    color: #fff;
+    margin-bottom: 4%;
+    margin-top: 3%;
+}
+.bgim a {
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 25px;
+    border: 2px solid yellow;
+    font-size: 19px;
+}
+.bgim a:hover {
+    background-color: #FFE401;
+    color: black;
+    transition: .5s ease;
+}
+
+#mountain {
+    background-color:#fff;
+}
+.moutxt {
+    background-color: #fff;
+    margin-left: 4%;
+}
+
+.htori{
+    background: url(../img/b3.jpg);
+    background-size: cover;
+}
+
+.rbg {
+    color: #F6F6F6;
+}
+
+.moutxt{
+    color: black;
+    margin-top: 8%;
+    margin-bottom: 5%;
+}
+.w {
+    width:50%;
+    margin:auto;
+}
+
+/*
+    =========> mountain end <===========
+
+*/
+
+/*
+    ==========> Service section <========
+
+*/
+
+
+.sbg{
+    background-color: #F6F6F6;
+}
+.stxt {
+    margin-top: 5%;
+}
+.stxt h2{
+    padding-top: 6%;
+}
+.serv{
+    padding-bottom: 8%;
+}
+
+
+
+/*
+
+==========> Project numbers <=========
+
+*/
+
+
+.hg1 {
+    height: 10rem;
+
+
+    background: #1C1C1C;
+}
+.cd h2{
+    padding-top: 2%;
+}
+
+.cd h3{
+    padding-bottom: 2%;
+}
+
+.pnmr {
+    margin-top:2.5%;
+    margin-bottom: 2.5%;
+}
